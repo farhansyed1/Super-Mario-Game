@@ -18,7 +18,7 @@ The code only works on the Digilent chipKIT Uno32 board when flashing using the 
 
 #### Title screen
 
-![Title_Screen](images/Title_Screen.jpg)
+![Title_Screen](images/Title_screen.jpg)
 
 #### Main menu
 
